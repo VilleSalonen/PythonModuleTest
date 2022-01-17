@@ -4,6 +4,7 @@ Resource       imports.resource
 
 *** Test Cases ***
 Some Test
+    Some Browser Util
     Log To Console    success
 
 *** Keywords ***
